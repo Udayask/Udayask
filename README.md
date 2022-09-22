@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udayask
 - 👀 I’m interested in graphics rendering & systems programming.
-- 🌱 I’m currently learning DPC++, CPU-GPU optimizations for UMDs. 
+- 🌱 I’m currently learning Vulkan API, and work on CPU-GPU optimizations for UMDs.
 - 💞️ I’m looking to collaborate on CPU-GPU optimizations for UMDs.
 - 📫 How to reach me : udaya.s.k@intel.com
 
